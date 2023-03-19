@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Rank
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yusi4781)](https://solved.ac/yusi4781)<br/>
