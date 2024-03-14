@@ -16,10 +16,14 @@
 <img src="https://img.shields.io/badge/JAVA-93DAFF?style=for-the-badge&logo=java&logoColor=white">
 
 ### 📱: Contact
-<!-- mail -->
-<a href="mailto:yusi4781@naver.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
-</a>
+<!-- mail, Instagram -->
+<a href="https://www.yusi4781@naver.com" target="_blank"><img src="https://img.shields.io/badge/yusi4781@naver.com-03C75A?style=flat-squre&logo=naver&logoColor=white"/></a>
+<a href="https://www.instagram.com/_u____si/" target="_blank"><img src="https://img.shields.io/badge/_u____si-E4405F?style=flat-squre&logo=instagram&logoColor=white"/></a>
+
+### 📓: My Blog
+<!--Notion, Velog-->
+<a href="https://clean-bottle-f71.notion.site/Study-163fe844c52648098c5bf03bbd1f6d95" target="_blank"><img src="https://img.shields.io/badge/Yusi Notion-000000?style=flat-squre&logo=Notion&logoColor=white"/></a>
+<a href="https://velog.io/@yusi4781/posts" target="_blank"><img src="https://img.shields.io/badge/yusi4781-20C997?style=flat-squre&logo=Velog&logoColor=white"/></a>
 
 ### ⏺️: Stats
 ![Yusi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinYusi&show_icons=true&theme=cobalt)
