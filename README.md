@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=transparent&text=Yusi&fontColor=00BFFF&desc=DesiDerium&descSize=20&descAlignY=80)
 
 
-#### 📋: Once I've Used
+### 📋: Once I've Used
 <!-- HTML -->
 <img src="https://img.shields.io/badge/HTML-00BFFF?style=for-the-badge&logo=HTML&logoColor=white">
 <!-- CSS -->
@@ -15,9 +15,17 @@
 <!-- Java -->
 <img src="https://img.shields.io/badge/JAVA-93DAFF?style=for-the-badge&logo=java&logoColor=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📱: Contact
+<!-- mail -->
+<a href="mailto:yusi4781@naver.com">
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
+</a>
 
-## Rank
+### ⏺️: Stats
+![Yusi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinYusi&show_icons=true&theme=cobalt)
+[![Record](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yusi4781)](https://solved.ac/yusi4781)<br/>
 
 </div>
