@@ -23,7 +23,7 @@
 
 ### 📓: My Blog
 <!--Notion, Velog-->
-<a href="https://clean-bottle-f71.notion.site/Study-163fe844c52648098c5bf03bbd1f6d95" target="_blank"><img src="https://img.shields.io/badge/Yusi Notion-000000?style=flat-squre&logo=Notion&logoColor=white"/></a>
+<a href="https://yusi4781.notion.site/Study-163fe844c52648098c5bf03bbd1f6d95?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Yusi Notion-000000?style=flat-squre&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@yusi4781/posts" target="_blank"><img src="https://img.shields.io/badge/yusi4781-20C997?style=flat-squre&logo=Velog&logoColor=white"/></a>
 
 ### ⏺️: Stats
