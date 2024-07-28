@@ -26,11 +26,4 @@
 <a href="https://yusi4781.notion.site/Study-163fe844c52648098c5bf03bbd1f6d95?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Yusi Notion-000000?style=flat-squre&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@yusi4781/posts" target="_blank"><img src="https://img.shields.io/badge/yusi4781-20C997?style=flat-squre&logo=Velog&logoColor=white"/></a>
 
-### ⏺️: Stats
-![Yusi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinYusi&show_icons=true&theme=cobalt)
-[![Record](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Rank
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yusi4781)](https://solved.ac/yusi4781)<br/>
-
 </div>
