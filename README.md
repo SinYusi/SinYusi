@@ -1,6 +1,8 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=transparent&text=Yusi&fontColor=00BFFF&desc=DesiDerium&descSize=20&descAlignY=80)
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SinYusi&bg_color=d1f0ff&color=000000&line=000000&point=5614d2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSinYusi&count_bg=%236E82FF&title_bg=%233D3D3D&icon=smugmug.svg&icon_color=%2374A0FF&title=Customer&edge_flat=false)](https://hits.seeyoufarm.com)
 
