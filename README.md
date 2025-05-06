@@ -4,6 +4,15 @@
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SinYusi&bg_color=d1f0ff&color=000000&line=000000&point=5614d2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+  <a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/703826601923992678/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
+
 ### 📋: Once I've Used
 <!-- HTML -->
 <img src="https://img.shields.io/badge/HTML-00BFFF?style=for-the-badge&logo=HTML&logoColor=white">
