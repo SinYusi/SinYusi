@@ -5,21 +5,21 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SinYusi&bg_color=d1f0ff&color=000000&line=000000&point=5614d2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/703826601923992678/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
+    <img
+      src="https://render.gitanimals.org/guilds/703826601923992678/draw"
+      width="600"
+      height="300"
+      alt="gitanimals"
+    />
+  </a>
 
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SinYusi&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/SinYusi"
-  width="600"
-  height="300"
-/>
-</a>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SinYusi&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/SinYusi"
+      width="600"
+      height="300"
+    />
+  </a>
 
 ### 📋: Once I've Used
 <!-- HTML -->
