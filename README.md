@@ -1,4 +1,6 @@
 <div align="center">
+
+  <h2>안녕하세요. 프론트엔드 개발자 신유승입니다.</h2>
   
   ![header](https://capsule-render.vercel.app/api?type=transparent&text=Yusi&fontColor=00BFFF&desc=DesiDerium&descSize=20&descAlignY=80)
 
